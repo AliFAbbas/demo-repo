@@ -1,3 +1,7 @@
 void main() {
-  print('Yes');
+  if (false) {
+    print('Yes');
+  } else {
+    print('No');
+  }
 }
